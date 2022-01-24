@@ -1,5 +1,5 @@
 # Algorithms
-I am trying to create a Repository for Different types of algorithms in C, C++, Java, JavaScript, Python
+I am trying to create a Repository for Different types of algorithms in  Python, Rust and JavaScript
 
 ## Different Types of Algorithms
 
